@@ -1,4 +1,4 @@
-# redux-grupo-de-estudo
+# Grupo de Estudo sobre Gerenciamento de Estado com Redux
 :octocat: Grupo de estudo sobre Redux
 
 
